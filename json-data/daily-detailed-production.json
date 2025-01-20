@@ -1,102 +1,210 @@
 [
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 13850,
-"TARIH": "2024/12/02"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 17936,
-"TARIH": "2024/12/03"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 500,
-"TARIH": "2024/12/04"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 6504,
-"TARIH": "2024/12/05"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 17075,
-"TARIH": "2024/12/06"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 5040,
-"TARIH": "2024/12/07"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 26234,
-"TARIH": "2024/12/09"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 65470,
-"TARIH": "2024/12/11"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 24070,
-"TARIH": "2024/12/12"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 49370,
-"TARIH": "2024/12/13"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 29650,
-"TARIH": "2024/12/14"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 68027,
-"TARIH": "2024/12/16"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 40100,
-"TARIH": "2024/12/17"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 6280,
-"TARIH": "2024/12/18"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 39935,
-"TARIH": "2024/12/19"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 43430,
-"TARIH": "2024/12/20"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 11650,
-"TARIH": "2024/12/21"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 18700,
-"TARIH": "2024/12/23"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 28170,
-"TARIH": "2024/12/24"
-},
-{
-"DEPOKODU": "URETIM_HM-ENJ",
-"URETILEN_MIKTAR": 33706,
-"TARIH": "2024/12/25"
-}
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "12:11:48",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0138",
+    "STT": [
+      {
+        "SF_MIKTAR": 1800,
+        "LOTNUMBER": "241203-544",
+        "MPSNO": "201382"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "14:43:04",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0622",
+    "STT": [
+      {
+        "SF_MIKTAR": 778,
+        "LOTNUMBER": "241203-548",
+        "MPSNO": "203283"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "23:01:38",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0138",
+    "STT": [
+      {
+        "SF_MIKTAR": 600,
+        "LOTNUMBER": "241203-612",
+        "MPSNO": "201382"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "23:04:08",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0623",
+    "STT": [
+      {
+        "SF_MIKTAR": 1620,
+        "LOTNUMBER": "241203-614",
+        "MPSNO": "194680"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/02",
+    "SAAT": "11:14:44",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0091",
+    "STT": [
+      {
+        "SF_MIKTAR": 1020,
+        "LOTNUMBER": "241202-587",
+        "MPSNO": "196893"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "12:09:08",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0092",
+    "STT": [
+      {
+        "SF_MIKTAR": 1149,
+        "LOTNUMBER": "241203-542",
+        "MPSNO": "198595"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "16:42:13",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0623",
+    "STT": [
+      {
+        "SF_MIKTAR": 1620,
+        "LOTNUMBER": "241203-576",
+        "MPSNO": "194680"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/02",
+    "SAAT": "11:28:01",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0489",
+    "STT": [
+      {
+        "SF_MIKTAR": 10030,
+        "LOTNUMBER": "241202-588",
+        "MPSNO": "199555"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "12:46:12",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0269",
+    "STT": [
+      {
+        "SF_MIKTAR": 1590,
+        "LOTNUMBER": "241203-546",
+        "MPSNO": "199987"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "17:09:18",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0622",
+    "STT": [
+      {
+        "SF_MIKTAR": 840,
+        "LOTNUMBER": "241203-578",
+        "MPSNO": "203283"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "23:06:43",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0090",
+    "STT": [
+      {
+        "SF_MIKTAR": 1020,
+        "LOTNUMBER": "241203-615",
+        "MPSNO": "196895"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "10:08:36",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0622",
+    "STT": [
+      {
+        "SF_MIKTAR": 1000,
+        "LOTNUMBER": "241203-529",
+        "MPSNO": "195408"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/02",
+    "SAAT": "11:33:22",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0526",
+    "STT": [
+      {
+        "SF_MIKTAR": 2800,
+        "LOTNUMBER": "241202-589",
+        "MPSNO": "197031"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "12:10:35",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0526",
+    "STT": [
+      {
+        "SF_MIKTAR": 2216,
+        "LOTNUMBER": "241203-543",
+        "MPSNO": "197031"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "12:46:12",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0268",
+    "STT": [
+      {
+        "SF_MIKTAR": 1590,
+        "LOTNUMBER": "241203-547",
+        "MPSNO": "199986"
+      }
+    ]
+  },
+  {
+    "TARIH": "2024/12/03",
+    "SAAT": "17:17:26",
+    "DEPOKODU": "HM-ENJ",
+    "KOD": "2 800 0610",
+    "STT": [
+      {
+        "SF_MIKTAR": 2113,
+        "LOTNUMBER": "241203-582",
+        "MPSNO": "193174"
+      }
+    ]
+  }
 ]
